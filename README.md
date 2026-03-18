@@ -143,7 +143,7 @@ streamlit run app.py
 
 ##  Deployment
 
-* Backend deployed on Render
+* Backend deployed on Railway or any other similar platform that supports python 3.11
 * Frontend can be deployed on Streamlit Cloud
 
 ---
