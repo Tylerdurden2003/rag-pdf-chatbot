@@ -179,3 +179,5 @@ streamlit run app.py
 
 This project was built to explore how AI can interact with real-world documents.
 It demonstrates practical implementation of modern LLM-based systems beyond simple chat interfaces.
+
+> ⚠️ Note: This project requires Python 3.11 due to compatibility with LangChain and related dependencies. Platforms using newer Python versions (e.g., 3.12+) may cause runtime errors.
