@@ -1,11 +1,11 @@
-# 🧠 RAG PDF Chatbot
+#  RAG PDF Chatbot
 
 An AI-powered chatbot that allows users to upload PDFs and ask questions about their content in natural language.
 Built using Retrieval-Augmented Generation (RAG), this system combines document understanding with LLM-based reasoning.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 📄 Upload and analyze any PDF
 * 💬 Ask questions in natural language
@@ -17,7 +17,7 @@ Built using Retrieval-Augmented Generation (RAG), this system combines document 
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
 1. **PDF Upload**
 
@@ -141,14 +141,14 @@ streamlit run app.py
 
 ---
 
-## 🌍 Deployment
+##  Deployment
 
 * Backend deployed on Render
 * Frontend can be deployed on Streamlit Cloud
 
 ---
 
-## 💡 Key Learnings
+##  Key Learnings
 
 * Understanding of RAG (Retrieval-Augmented Generation)
 * Working with vector databases and embeddings
@@ -158,7 +158,7 @@ streamlit run app.py
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add user authentication
 * Persistent chat history
@@ -168,14 +168,14 @@ streamlit run app.py
 
 ---
 
-## 🤝 Author
+##  Author
 
 **Abhinav Gopal**
 🔗 GitHub: https://github.com/Tylerdurden2003
 
 ---
 
-## ⭐ Final Note
+##  Final Note
 
 This project was built to explore how AI can interact with real-world documents.
 It demonstrates practical implementation of modern LLM-based systems beyond simple chat interfaces.
